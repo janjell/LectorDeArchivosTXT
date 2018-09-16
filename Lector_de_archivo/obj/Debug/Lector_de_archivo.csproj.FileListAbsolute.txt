@@ -1,0 +1,10 @@
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\bin\Debug\Lector_de_archivo.exe.config
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\bin\Debug\Lector_de_archivo.exe
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\bin\Debug\Lector_de_archivo.pdb
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\obj\Debug\Lector_de_archivo.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\obj\Debug\Lector_de_archivo.Form1.resources
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\obj\Debug\Lector_de_archivo.Properties.Resources.resources
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\obj\Debug\Lector_de_archivo.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\obj\Debug\Lector_de_archivo.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\obj\Debug\Lector_de_archivo.exe
+C:\Users\Jorge\Desktop\Lector_de_archivo\Lector_de_archivo\obj\Debug\Lector_de_archivo.pdb
